@@ -1,6 +1,6 @@
 #Return Values From Function
 def add(a,b):
-    return a+b #Calling the function with alguments
+    return a+b #Calling the function with arguments
     result = add(4,5)
     print(result) # Output: 9
     

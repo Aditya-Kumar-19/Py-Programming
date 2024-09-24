@@ -1,3 +1,3 @@
 This is my python repo...
 and 
-My HackerRank username "@kumaraditya76681"
+My HackerRank username is "@kumaraditya76681"
